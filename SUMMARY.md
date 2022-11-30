@@ -25,6 +25,7 @@
   * [This is OK, that is not OK - boundaries](connection-tools/this-is-ok-that-is-not-ok-boundaries.md)
   * [Interests and Positions](connection-tools/interests-and-positions.md)
   * [Speak tentatively](connection-tools/speak-tentatively.md)
+  * [We get defensive because we're afraid what we're "attacked" about is true](connection-tools/we-get-defensive-because-were-afraid-what-were-attacked-about-is-true.md)
 * [Self-acceptance tools](self-acceptance-tools/README.md)
   * [Origins of self-acceptance](self-acceptance-tools/origins-of-self-acceptance.md)
   * [Turn people (and specifically yourself) into a tree](self-acceptance-tools/turn-people-and-specifically-yourself-into-a-tree.md)
