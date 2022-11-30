@@ -60,5 +60,6 @@
   * [Ram Dass](prior-works-with-pros-and-cons/ram-dass.md)
   * [Internal Family Systems](prior-works-with-pros-and-cons/internal-family-systems.md)
   * [Non-violent communication](prior-works-with-pros-and-cons/non-violent-communication.md)
+  * [Peter Deunov](prior-works-with-pros-and-cons/peter-deunov.md)
   * [Other sources](prior-works-with-pros-and-cons/other-sources.md)
   * [Missing things](prior-works-with-pros-and-cons/missing-things.md)

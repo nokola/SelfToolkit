@@ -1,6 +1,6 @@
 # Strong enough to be gentle
 
-People want to be strong, but to be really strong one has to be kind.
+People want to be strong, but in order to be strong one has to be kind.
 
 As we know from [clear-is-kind-unclear-is-unkind.md](clear-is-kind-unclear-is-unkind.md "mention") kindness comes from clarity of message.
 
