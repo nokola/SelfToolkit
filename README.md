@@ -44,7 +44,7 @@ Of sorts.
 
 What happens then, Ras, when you feel angry, or sad without realizing?
 
-&#x20;It's usually because someone **made me** __ <mark style="color:orange;">sad</mark>.
+> :raccoon: It's usually because someone **made me** __ <mark style="color:orange;">sad</mark>.
 
 Hmm...do you mean like yesterday when I told you I can't come to the trash can for our daily 4 PM rummage because I was writing this book?
 
