@@ -26,11 +26,11 @@ For everyone reading so far, Rascal is our resident chill racoon who will help u
 
 Sounds good, Ras!
 
-There are multiple studies in communication, psychology books, workshops and methods. Unlike math, physics and other sciences a lot of information con connection and communication exists in silos loosely referencing one another.&#x20;
+There are multiple studies in communication, psychology books, workshops and methods. Unlike math, physics and other sciences a lot of information on connection and communication exists in silos loosely referencing one another.&#x20;
 
-This book does not aim (but it might happen) to fail miserably and result in yet-another-teaching-workshop-or-writing. This book is an attempt to combine a few sources into something more cohesive that is useful to others.&#x20;
+This book does not aim (but it might happen) to fail miserably and result in yet-another-teaching-workshop-or-writing. This book is an attempt to combine a few sources into something more cohesive that is useful to others. Showing and explaining awareness and communication tools that I tested and found others report useful, through research and experimentation.
 
-> :raccoon:A science, of sorts.
+> :raccoon:A science, of sorts?
 
 Of sorts.
 
