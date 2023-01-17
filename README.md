@@ -54,13 +54,9 @@ Last week I told you I can't come to the trash can for our 4 PM. You had huge pi
 
 > :raccoon: I was pretty <mark style="color:orange;">happy</mark> about that ham.
 
-{% hint style="info" %}
-Note to reader: I gave Ras the ham.
-{% endhint %}
-
 Both times I said the same thing...that I can't make it. But the first time you were <mark style="color:orange;">happy</mark> about it, and the second time you were <mark style="color:orange;">sad</mark>.&#x20;
 
-How could I have made you sad or happy - both times I said the same thing! Did \*I\* really made you feel sad \*and\* __ happy by doing the exact same thing?
+How could I have made you sad or happy - both times I said the same thing! Did I really made you feel sad and __ happy by doing the exact same thing?
 
 > :raccoon: I guess you did...and you didn't?
 
