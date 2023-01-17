@@ -18,9 +18,9 @@ I'd like to manage this as a collaborative project that's alive with frequent up
 
 For as long as humanity existed, people practiced various methods of connecting with others and with themselves. Often these ways would end up at odds with one another. From shamanism, religion, tribal groups, through daily interaction at work and at home, to war, we attempt to express ourselves and achieve what we need and want in myriad of ways.
 
-> :raccoon: Rascal: "Obviously some work, and some like war, are horrible!"
+> :raccoon: Rascal: "Obviously some ways work, and some ways, like war, are horrible!"
 
-Thank you, Rascal. For everyone reading so far, Rascal is our resident chill racoon who will help us understand some of the concepts and challenge me, the author, from time to time.
+For everyone reading so far, Rascal is our resident chill racoon who will help us understand some of the concepts and challenge me, the author, from time to time.
 
 > :raccoon: You can call me Ras if you'd like.
 
