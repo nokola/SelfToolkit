@@ -20,68 +20,66 @@ For as long as humanity existed, people practiced various methods of connecting 
 
 > :raccoon: Rascal: "Obviously some work, and some like war, are horrible!"
 
-Thank you, Rascal. For everyone reading so far, Rascal is our quite chill racoon that will help us understand some of the concepts and challenge me, the author, from time to time.
+Thank you, Rascal. For everyone reading so far, Rascal is our resident chill racoon who will help us understand some of the concepts and challenge me, the author, from time to time.
 
-:raccoon: You can call me Ras if you'd like.
+> :raccoon: You can call me Ras if you'd like.
 
 Sounds good, Ras!
 
-There are multiple studies in communication, psychology books, workshops and methods. Unlike maths, physics and other sciences a lot of the ways for connecting exist in silos loosely referencing one another. This book is an attempt to combine a few sources into something more cohesive that is useful to others. This book does not aim (but it might happen) to fail miserably and result in yet-another-teaching-workshop-or-writing.
+There are multiple studies in communication, psychology books, workshops and methods. Unlike math, physics and other sciences a lot of information con connection and communication exists in silos loosely referencing one another.&#x20;
 
-:raccoon:A science, of sorts.
+This book does not aim (but it might happen) to fail miserably and result in yet-another-teaching-workshop-or-writing. This book is an attempt to combine a few sources into something more cohesive that is useful to others.&#x20;
+
+> :raccoon:A science, of sorts.
 
 Of sorts.
 
 ## Understanding ourselves and others can help us live a better life
 
-{% hint style="info" %}
-:raccoon: Chill Raccoon's soul-searching comment:
-
-I understand myself. I talk with others daily and I'm feeling pretty good right now! I can communicate already! Why would I need any of your ramblings or your book?
-{% endhint %}
-
-What happens then, Raccoon, when you feel angry, or sad without realizing?
-
-> :raccoon: Chill Raccoon
+> :raccoon: Ras
 >
-> It's usually because someone **made me** __ <mark style="color:orange;">sad</mark>.
+> I understand myself. I talk with others daily and I'm feeling pretty good right now!&#x20;
+>
+> I can communicate already! Why would I need any of your ramblings or your book?
+
+What happens then, Ras, when you feel angry, or sad without realizing?
+
+&#x20;It's usually because someone **made me** __ <mark style="color:orange;">sad</mark>.
 
 Hmm...do you mean like yesterday when I told you I can't come to the trash can for our daily 4 PM rummage because I was writing this book?
 
-> :raccoon:Chill Raccoon
->
-> Yes, that made me <mark style="color:orange;">sad</mark>, yes. Now you get it.
+> :raccoon: Yes, that made me <mark style="color:orange;">sad</mark>, yes. Now you get it. You did it, 100%. You.
 
-Do you remember last week - I told you I can't come to the trash can for our 4 PM. There was this huge piece of ham you were looking forward to eating (all by yourself I might add.) How did you feel then?
+Last week I told you I can't come to the trash can for our 4 PM. You had huge piece of ham you were looking forward to eating (all by yourself I might add.) How did you feel then?
 
-> :raccoon:Chill Raccoon&#x20;
->
-> I was pretty <mark style="color:orange;">happy</mark> about that ham.
+> :raccoon: I was pretty <mark style="color:orange;">happy</mark> about that ham.
 
 {% hint style="info" %}
-Note to reader: I was me who tossed the ham in there.
+Note to reader: I gave Ras the ham.
 {% endhint %}
 
 Both times I said the same thing...that I can't make it. But the first time you were <mark style="color:orange;">happy</mark> about it, and the second time you were <mark style="color:orange;">sad</mark>.&#x20;
 
-How could I have made you sad or happy - both times I said the same thing! Did _I_ really made you feel sad _and_ happy by doing the exact same thing?
+How could I have made you sad or happy - both times I said the same thing! Did \*I\* really made you feel sad \*and\* __ happy by doing the exact same thing?
 
-> 🦝Chill Raccoon
->
-> I guess you did...and you didn't?
+> :raccoon: I guess you did...and you didn't?
 
 In the Science of Connection and awareness I'd say:
 
-* **I contributed to an environment where you felt a certain way**&#x20;
+* **I contributed to an environment to trigger an \*emotion\* that you \*felt\* a certain way.**&#x20;
 
 and&#x20;
 
-* **You felt a certain way based on your past lived experience and current state.**
+* **You \*felt\* a certain way based on your past lived experience, current state, and how you subconsciously and consciously interpreted the \*emotion\***
 
 Both of these are true. I didn't make you feel a certain way, neither did you.
 
-> ​🦝Chill Raccoon
->
-> Cool! So, all those idiots that stole my garbage last month didn't make me angry but just wanted my garbage for themselves. I got angry because I wanted it for myself as well.
->
-> I'm a bit angry right now. What can I do about it?
+We both did!
+
+> ​:raccoon: Ha! Hmm, I think I may get what you're saying...but I thought emotions and feelings are the same thing? And what is with these \*asterisks\* and <mark style="color:orange;">colors</mark> that we're now using? Are you just trying to be fancy?
+
+I use asterisks to identify terms like \*feelings\* or \*needs\*. Terms are very important here because I define some words differently.&#x20;
+
+For example, I define \*emotions\* and \*feelings\* to mean very specific, different things in the context of this book. This doesn't mean that one definition is correct and another incorrect. It just means I'm going to use these definitions to help me make the content of the book clearer.
+
+Orange is used for feelings (like <mark style="color:orange;">joy</mark>) <mark style="color:orange;"></mark> and blue is used for needs (like <mark style="color:blue;">food</mark>).
