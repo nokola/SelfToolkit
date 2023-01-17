@@ -4,7 +4,7 @@ This is _Self-Awareness and Communication Toolkit_, a living book exploring the 
 
 ## Free Toolkit
 
-This toolkit is free; however you can [support me on ♥ Patreon](https://patreon.com/nokola) to get some extras like one-off articles on widely discussed subjects, continue expanding the list of tools, get sneak peek to and influence new development.
+This toolkit is free; however you can [support me on ♥ Patreon](https://patreon.com/nokola) to get some extras like articles and deeper dives on widely discussed, sometimes controversial subjects. You can help me continue expanding the list of tools, get sneak peek to and influence new development.
 
 Link others to this page directly, so that they have the latest version with all the edits and fixes.
 
