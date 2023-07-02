@@ -20,7 +20,7 @@
 * [Learn a new language](learn-a-new-language/README.md)
   * [Deconstructing](learn-a-new-language/deconstructing.md)
   * [How and what, there's no why (exceptions apply)](learn-a-new-language/how-and-what-theres-no-why-exceptions-apply.md)
-  * [Did you put your but in someone's face?](learn-a-new-language/did-you-put-your-but-in-someones-face.md)
+  * [Keep your but behind you](learn-a-new-language/keep-your-but-behind-you.md)
   * [Don't should on people](learn-a-new-language/dont-should-on-people.md)
   * [How does X look like?](learn-a-new-language/how-does-x-look-like.md)
   * ["Being aware" means to understand our momentous internal state](learn-a-new-language/being-aware-means-to-understand-our-momentous-internal-state.md)
