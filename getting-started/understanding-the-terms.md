@@ -4,8 +4,8 @@ Understanding the terms deeply, through examples, practice is crucial for unders
 
 Terms we use and define in next few chapters:
 
-1. [Mindset and "mindset statement"](../adopt-new-mindsets/term-mindset-is-a-guiding-statement-for-behavior.md)
-2. [Adopting a mindset](../adopt-new-mindsets/term-adopting-a-mindset-being-able-to-remember-the-mindset-statement-in-greater-than-5-of-times.md)
+1. [Mindset and "mindset statement"](../mindsets/term-mindset-is-a-guiding-statement-for-behavior.md)
+2. [Adopting a mindset](../mindsets/term-adopting-a-mindset-being-able-to-remember-the-mindset-statement-in-greater-than-5-of-times.md)
 3. [Being aware](../learn-a-new-language/being-aware-means-to-understand-our-momentous-internal-state.md)
 4. [Feeling](../learn-a-new-language/term-feelings-are-whats-alive-inside-us.md)
 5. [Need](../learn-a-new-language/term-needs-are-our-deepest-motivations-behind-anything-we-think-say-or-do.md)

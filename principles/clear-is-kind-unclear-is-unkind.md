@@ -10,4 +10,4 @@ seek clarity; only use judgement for clarity
 
 
 
-📙Source: [brene-brown.md](../prior-works-with-pros-and-cons/brene-brown.md "mention")
+📙Source: [brene-brown.md](../references/brene-brown.md "mention")
