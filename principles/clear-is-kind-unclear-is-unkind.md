@@ -30,7 +30,7 @@ The concept of clarity of message is so fundamental that Brené Brown, a famous 
 
 There are two aspects to "clear is kind":
 
-1. Self: Are you kind to yourself? For example, if you feel ashamed do you seek internal clarity of message? (what is your feeling indicating?)
-2. Others: Are you kind to others? If someone does not understand you or is upset, do you seek clarity or try to provide clarity?
+1. Self: Are you kind to yourself? For example, if you feel ashamed do you seek internal clarity of message? Do you look for what your feeling is indicating?
+2. Others: Are you kind to others? If someone does not understand you or is upset, do you seek clarity? Do you try to provide clarity?
 
 📙Source: [brene-brown.md](../references/brene-brown.md "mention")

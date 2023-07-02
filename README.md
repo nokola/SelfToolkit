@@ -48,19 +48,17 @@ A "proper" science:
 
 Above all, mostly **works.**
 
-There are multiple studies in communication, psychology books, workshops and methods. Unlike math, physics and other sciences a lot of information on connection and communication exists in silos loosely referencing one another.&#x20;
+There are multiple studies in communication all over - psychology books, workshops, and methods. Unlike math, physics, and other sciences a lot of information on connection and communication exists in silos loosely referencing one another.
 
-I'd like to introduce you to Rascal, our resident racoon who will help us understand some of the concepts and challenge me, Nokola, from time to time.
+Let's see if we can change that. This toolkit contains references to 20 or so sources. Things that worked. Showing and explaining awareness and communication tools that I tested and found others report useful, through research and experimentation.
+
+## Rascal
+
+Meet Rascal, our resident racoon who will help us understand some of the concepts and challenge me, Nokola, from time to time.
 
 > :raccoon: Hi! I'm Ras, the racoon. I ate the paper version of this book, so Nokola has to publish online now.
 
 Hi, Ras!
-
-This toolkit does not aim (but it might happen) to fail miserably and result in yet-another-teaching-workshop-or-writing. I attempt to combine a few sources into something more cohesive that is useful to others. Showing and explaining awareness and communication tools that I tested and found others report useful, through research and experimentation.
-
-> :raccoon:A science, of sorts?
-
-Of sorts.
 
 ## Understanding ourselves and others can help us live a better life
 
@@ -86,13 +84,13 @@ How could \*I\* have made you sad or happy - both times I said the same thing! D
 
 > :raccoon: I guess you did...and you didn't?
 
-In the Science of Connection and awareness I'd say:
+Perhaps this happened:
 
 * **I contributed to an environment to trigger an \*emotion\* that you \*felt\* a certain way.**&#x20;
 
 and&#x20;
 
-* **You \*felt\* a certain way based on your past lived experience, current state, and how you subconsciously and consciously interpreted the \*emotion\***
+* **You \*felt\* a certain way based on your past lived experiences, current state, and how you subconsciously and consciously interpreted the \*emotion\***
 
 Both of these are true. I didn't 100% make you feel a certain way, neither did you.
 

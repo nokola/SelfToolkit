@@ -12,6 +12,6 @@ Throughout this journey, I decide to improve and be more effective at understand
 
 If you're still not convinced, think about this: "how long does it take to become a painter, doctor, software engineer, teacher, construction worker, gymnast?".&#x20;
 
-While you may have proficiency in a specific area, you're likely to improve 1 year later, 5 years later, and so on. Practicing for multiple years builds skills.&#x20;
+While you may have proficiency in a specific area, you're likely to improve in a year, in 5 years, and so on. Practice over multiple years builds skills.&#x20;
 
-Whether a profession or self-awareness and communication skill.
+Whether it's a profession or self-awareness and communication skill.
