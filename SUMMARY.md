@@ -11,7 +11,7 @@
   * [Strong enough to be gentle](principles/strong-enough-to-be-gentle.md)
   * [Only do things out of joy](principles/only-do-things-out-of-joy.md)
 * [Mindsets](mindsets/README.md)
-  * [Term: "Mindset" and "Mindset statements": a guiding statement for behavior](mindsets/term-mindset-and-mindset-statements-a-guiding-statement-for-behavior.md)
+  * [Term: "Mindset statements"](mindsets/term-mindset-statements.md)
   * [Some Useful Mindsets](mindsets/some-useful-mindsets.md)
 * [Paradigm/Shift](paradigm-shift/README.md)
   * [Feelings and Needs](paradigm-shift/feelings-and-needs.md)

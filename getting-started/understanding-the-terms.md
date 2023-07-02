@@ -14,7 +14,7 @@ The beginning of this toolkit will start with some terms that I took the liberty
 
 Terms we use and define in next few chapters:
 
-1. [Mindsets and "mindset statement"](../mindsets/term-mindset-and-mindset-statements-a-guiding-statement-for-behavior.md)
+1. [Mindsets and "mindset statement"](../mindsets/term-mindset-statements.md)
 2. [Adopting a mindset](broken-reference)
 3. [Being aware](../learn-a-new-language/being-aware-means-to-understand-our-momentous-internal-state.md)
 4. [Feeling](../learn-a-new-language/term-feelings-are-whats-alive-inside-us.md)
