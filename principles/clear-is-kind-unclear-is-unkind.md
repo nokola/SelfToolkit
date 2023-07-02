@@ -15,10 +15,11 @@ and so on.
 What is clarity? It boils down to two things:
 
 1. Are people understanding what I mean?
+2. Am I understanding what others mean?
 
-There's no second thing. Notice the above text doesn't say "Am I being clear?".&#x20;
+Note the above text doesn't say "Am I being clear?".&#x20;
 
-You can only be clear if the other side understands you.
+**You can only be clear if the other side understands you.**
 
 Often times people argue "I said X. It's obvious! I'm clear". Think about this: who decides if you're clear? You or the person receiving the message? If someone seems to not understand, are you clear enough?
 

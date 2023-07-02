@@ -8,9 +8,9 @@ Please don't.
 
 If you do, you run the risk of misunderstanding the content, have it work differently or fail.
 
-My mother, a teacher for the last 40 years says: "People really understand \<a subject> almost all by themselves when they have deep understanding of the terminology. Not just a short sentence of what a term means, but practice with examples, use the term, understand where and how the term applies and the gotchas."
+This toolkit uses very specific **terms** (or "words") that are defined, sometimes very differently than "common knowledge." Read carefully through the definition of terms - it will help convey the meaning of the tools better. I spent weeks and sometimes months refining a term based on people's feedback to help clarify concepts.
 
-The beginning of this toolkit will start with some terms that I took the liberty to repurpose and redefine to be able to explain my meaning better.
+My mother, a teacher for the last 40 years says: "People really understand \<a subject> almost all by themselves when they have deep understanding of the terminology. Not just a short sentence of what a term means, but practice with examples, use the term, understand where and how the term applies and the gotchas."
 
 Terms we use and define in next few chapters:
 

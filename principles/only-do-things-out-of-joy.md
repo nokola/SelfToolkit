@@ -1,5 +1,7 @@
 # Only do things out of joy
 
+The last and third principle underpinning communication:
+
 "Only do things with the joy of a young child feeding a hungry duck" - Marshall Rosenberg [nonviolent-communication.md](../references/nonviolent-communication.md "mention")
 
 > 🦝 That's impossible!

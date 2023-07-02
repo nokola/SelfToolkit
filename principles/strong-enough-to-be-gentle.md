@@ -14,8 +14,8 @@ Peter Cullen, the voice of Optimus Prime in the Transformers movie discusses the
 
 Similar to [clear-is-kind-unclear-is-unkind.md](clear-is-kind-unclear-is-unkind.md "mention") the Strong Enough to be Gentle concept has two aspects:
 
-1. Self: Are you strong enough to be gentle to yourself? Do you enjoy what life has to offer? Is your self-talk (internal thinking) lifting you up or putting you down? Sometimes, people say things to themselves that they would tell others, like "I'm not good enough" "I'm a failure" or "I suck". Would you say what you tell yourself to a friend?&#x20;
-2. Others: When you get in any situation: think Am I strong enough to be gentle? What does it look like?
+1. Self: Are you strong enough to be gentle to yourself? Do you enjoy what life has to offer? Is your self-talk (internal thinking) lifting you up or putting you down? Sometimes, people say things to themselves that they would never say to others, like "I'm not good enough" "I'm a failure" or "I suck". Would you say what you tell yourself to a friend?&#x20;
+2. Others: When you get in any situation, think: am I strong enough to be gentle? What does it look like?
 
 Another way to think about it - imagine you're playing with a puppy. The puppy is cute, small, cuddly, and excited. It runs all over the place, jumps around and wags at you. You are much stronger than the puppy, but you pick them gently, you play with them slowly and both enjoy the process.
 
