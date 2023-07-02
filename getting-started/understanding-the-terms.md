@@ -1,11 +1,21 @@
 # Understanding the terms
 
-Understanding the terms deeply, through examples, practice is crucial for understanding the tools that use them.&#x20;
+Most people skim through terms and definitions.&#x20;
+
+Don't.
+
+Please don't.
+
+If you do, you run the risk of misunderstanding the content, have it work differently or fail.
+
+My mother, a teacher for the last 40 years says: "People really understand \<a subject> almost all by themselves when they have deep understanding of the terminology. Not just a short sentence of what a term means, but practice with examples, use the term, understand where and how the term applies and the gotchas."
+
+The beginning of this toolkit will start with some terms that I took the liberty to repurpose and redefine to be able to explain my meaning better.
 
 Terms we use and define in next few chapters:
 
-1. [Mindset and "mindset statement"](../mindsets/term-mindset-is-a-guiding-statement-for-behavior.md)
-2. [Adopting a mindset](../mindsets/term-adopting-a-mindset-being-able-to-remember-the-mindset-statement-in-greater-than-5-of-times.md)
+1. [Mindsets and "mindset statement"](../mindsets/term-mindset-and-mindset-statements-a-guiding-statement-for-behavior.md)
+2. [Adopting a mindset](broken-reference)
 3. [Being aware](../learn-a-new-language/being-aware-means-to-understand-our-momentous-internal-state.md)
 4. [Feeling](../learn-a-new-language/term-feelings-are-whats-alive-inside-us.md)
 5. [Need](../learn-a-new-language/term-needs-are-our-deepest-motivations-behind-anything-we-think-say-or-do.md)
@@ -14,5 +24,5 @@ Terms we use and define in next few chapters:
 8. Interpretation, Evaluation, Assessment, Diagnosis, Judgement
 9. Interests and Positions
 
-To clarify meaning terms are mentioned in quotes or using <mark style="color:orange;">color</mark>.
+
 

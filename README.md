@@ -1,10 +1,24 @@
 # Welcome
 
+My online name is Nokola. For years I have suffered with anxiety, frustrations, misunderstandings and generally missing on life. And I didn't even know. I went through an abusive relationship where I felt horrible. I was an enabler. I was clinging to ideas and societal expectations. I read countless articles, self-help, and went to different psychologists a couple of times.
+
+And then without realizing, things started to change. One day, at work, I got a call from a distressed co-worker. The person mentioned that "they no longer want to work with X" because "I can't" and "I'm going to talk with my boss to take me off the project". What happened next? I was on a call for about 2 hours listening to this person's pain and problems when working with the other. I knew both. I was a third party. They both wanted the best. "Why wouldn't they work with each other?" I thought.
+
+Over the next 3 years I created an internal club, called Brave Conversations and with help of numerous coworkers presented 37 workshops internally at Microsoft ran countless experiments and reached hundreds of people. In several cases, we supported coworkers through very personal, hard, nerve-wracking transitions.
+
+I spent a lot of time with others decoupling the intricacies of communication, self-work like acceptance, awareness, self-love. Along the way my thinking changed, my patterns improved, my anxiety mostly went away. The remaining anxiety is useful and I love it! Enjoying my anxiety - imagine that!
+
+I managed to deal with some moments that would otherwise be insanely hard, navigate personal and self-related subjects with ease. And really **enjoy** and **feel alive**, not just living.
+
+If you have ever wondered "what does it mean to communicate better?" or "how can I improve my wellbeing" this toolkit might be for you.
+
+What I'm going to present here are concepts and tools that worked for me and others. I hope they work for you, whoever you are. And if they don't, I hope that you would let me know so that I can avoid spewing bullshit that doesn't work online. Anything that I misrepresented is my mistake.
+
 This is _Self-Awareness and Communication Toolkit_, a living book exploring the science of communication by introducing a number of tools to help understand ourselves and others better and communicate more clearly. Awareness helps me improve my wellbeing, enjoy deeper relationships with others and myself. I build resilience when faced with challenges in my daily life.
 
 ## Free
 
-This toolkit is free; however you can [support me on ♥ Patreon](https://patreon.com/nokola) to get some extras like articles and deeper dives on controversial subjects. You can help me continue expanding the list of tools, get sneak peek to and influence new development.
+This toolkit is free. You can [support me on ♥ Patreon](https://patreon.com/nokola) to get some extras like articles and deeper dives on controversial subjects. You can help me continue expanding the list of tools, get sneak peeks and influence new development.
 
 Link others to this page directly, so that they have the latest version with all the edits and fixes.
 
@@ -12,15 +26,27 @@ If you'd like to support the numerous people who knowingly or unknowingly contri
 
 ## Collaborative
 
-I'd like to manage this as a collaborative project that's alive with frequent updates, changes, and improvements from all our readers and contributors rather than "a book". Over the years I found that collaborative knowledge can far exceed any single person's contribution. I'd like to hear your opinions through Patreon.
+I'd like to manage this as a collaborative project that's **alive with frequent updates**, changes, and improvements from all our readers and contributors rather than "a book". Over the years I found that collaborative knowledge can far exceed any single person's contribution. I'd like to hear your opinions through Patreon.
 
-## Connection Science is at a Very Early Stage
+## Connection science is not even a science, yet
+
+I'm not even sure if "connection science" is a word. Two words.
 
 People practice various methods of connecting with others and with themselves. Often these ways would end up at odds with one another. From shamanism, religion, tribal groups, through daily interaction at work and at home, to war, we attempt to express ourselves and achieve what we need and want in myriad of ways.
 
+Articles online about communication are usually what I call "pop culture" - a list or a slice of advice, some boxes to check and couple things to verify "if you're this or that". TL;DR; not deep and not building upon each other.
+
+A proper science:
+
+1. Builds upon prior work
+2. Makes things structured and systematic
+3. Grounded in experimentation, and clarity
+
+Above all, mostly **works.**
+
 I'd like to introduce you to Rascal, our resident racoon who will help us understand some of the concepts and challenge me, Nokola, from time to time.
 
-> :raccoon: You can call me Ras if you'd like.
+> :raccoon: Hi! I'm Ras, the racoon. I ate the paper version of this book, so Nokola has to publish online now.
 
 Hi, Ras!
 
@@ -34,9 +60,7 @@ Of sorts.
 
 ## Understanding ourselves and others can help us live a better life
 
-> :raccoon: Ras
->
-> I understand myself. I talk with others daily and I'm feeling pretty good right now!&#x20;
+> :raccoon: I understand myself. I talk with others daily and I'm feeling pretty good right now!&#x20;
 >
 > I can communicate already! Why would I need any of your ramblings or your book?
 
@@ -74,6 +98,6 @@ We both did!
 
 I use asterisks to identify terms like \*feelings\* or \*needs\*. Terms are very important here because I define some words differently.&#x20;
 
-For example, I define \*emotions\* and \*feelings\* to mean very specific, different things in the context of this book. This doesn't mean that one definition is correct and another incorrect. It just means I'm going to use these definitions to help me make the content of the book clearer.
+For example, I define \*emotions\* and \*feelings\* to mean very specific, different things in the context of this toolkit. This doesn't mean that one definition is correct and another incorrect. It just means I'm going to use these definitions to help me make the content of the book clearer.
 
 Orange is used for feelings (like <mark style="color:orange;">joy</mark>) and blue is used for needs (like <mark style="color:blue;">food</mark>).
