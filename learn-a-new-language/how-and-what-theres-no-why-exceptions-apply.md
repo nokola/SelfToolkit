@@ -1,2 +1,2 @@
-# 🔧 How and what, there's no why (exceptions apply)
+# How and what, there's no why (exceptions apply)
 

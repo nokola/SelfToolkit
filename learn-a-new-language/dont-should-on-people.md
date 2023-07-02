@@ -1,2 +1,2 @@
-# 🔧 Don't should on people
+# Don't should on people
 

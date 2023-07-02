@@ -1,4 +1,4 @@
-# 🔧 Check and Choice
+# Check and Choice
 
 What is it?
 
