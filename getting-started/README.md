@@ -8,7 +8,7 @@ It's a process of life-long learning.
 
 Throughout this journey, I decide to improve and be more effective at understanding myself, understanding others, and conveying my meaning to others. Even when re-reading this, I may find something useful and immediately applicable.&#x20;
 
-\| 🦝 Hm
+\| :raccoon: Hm
 
 If you're still not convinced, think about this: "how long does it take to become a painter, doctor, software engineer, teacher, construction worker, gymnast?".&#x20;
 

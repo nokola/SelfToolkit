@@ -9,7 +9,7 @@ Pick one mindset and think about it over the next week before meetings and conve
 3. People can only say "please" and "thank you"
 4. "Unexpected outcomes may be OK"
 
-Danger: beware of these mindsets that are harmful:
+Danger: beware of these mindsets that can be harmful:
 
 1. "I know better" - makes it less likely to ask questions. As in, less likely to be curious
 2. "They know better" - makes it less likely to speak up and share in your ideas.

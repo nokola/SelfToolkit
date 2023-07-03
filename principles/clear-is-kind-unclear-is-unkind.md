@@ -23,7 +23,7 @@ Note the above text doesn't say "Am I being clear?".&#x20;
 
 Often times people argue "I said X. It's obvious! I'm clear". Think about this: who decides if you're clear? You or the person receiving the message? If someone seems to not understand, are you clear enough?
 
-> 🦝 Or maybe it's them?
+> :raccoon: Or maybe it's them?
 
 Maybe. Even so: I like to define me being clear as only one thing: the other person can understand me. It helps me seek and attempt to provide clarity. The other implication "there's something wrong with them" does not help me.
 

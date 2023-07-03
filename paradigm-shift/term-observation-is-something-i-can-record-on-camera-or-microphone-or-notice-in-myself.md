@@ -1,2 +1,2 @@
-# Term: "Observation" is something we can record on camera or microphone, or notice of ourselves
+# Term: "Observation" is something I can record on camera or microphone, or notice in myself
 
