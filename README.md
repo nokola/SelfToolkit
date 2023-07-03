@@ -18,7 +18,7 @@ If you have ever wondered "what does it mean to communicate better?" or "how can
 
 What I'm going to present here are concepts and tools that worked for me and others. I hope they work for you, whoever you are. And if they don't, I hope that you would let me know so that I can avoid spewing bullshit that doesn't work online. Anything that I misrepresented is my mistake.
 
-This is _Self-Awareness and Communication Toolkit_, a living book exploring the science of communication by introducing a number of tools to help understand ourselves and others better and communicate more clearly. Awareness helps you improve your wellbeing, enjoy deeper relationships with others and yourself. You will build resilience when faced with challenges in your daily life.
+This is _Self-Awareness and Communication Toolkit_, a living book exploring the science of communication by introducing a number of thinking and behavior tools to help understand ourselves and others better and communicate more clearly. Awareness helps you improve your wellbeing, enjoy deeper relationships with others and yourself. You will build resilience when faced with challenges in your daily life.
 
 ## Free
 
