@@ -1,4 +1,4 @@
-# Clear is kind, unclear is unkind
+# ⚒ Clear is kind, unclear is unkind
 
 Communication is really just one thing: **clarity of message**.
 
@@ -35,3 +35,8 @@ There are two aspects to "clear is kind":
 2. Others: Are you kind to others? If someone does not understand you or is upset, do you seek clarity? Do you try to provide clarity?
 
 📙Source: [brene-brown.md](../references/brene-brown.md "mention")
+
+## **🛠Tool: Clear is Kind**
+
+&#x20;When you're in a loaded situation remind yourself: Am I being clear thus kind to myself? To others?
+

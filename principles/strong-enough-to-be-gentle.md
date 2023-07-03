@@ -1,4 +1,4 @@
-# Strong enough to be gentle
+# ⚒ Strong enough to be gentle
 
 What does it mean to be mentally strong?
 
@@ -22,3 +22,7 @@ Another way to think about it - imagine you're playing with a puppy. The puppy i
 Imagine if you can extend the same gentleness, calm, and clarity of mind to yourself in situations that are stressful. Imagine if you can do it when others are stressed or upset. That's strong enough to be gentle.
 
 For me - super hard to achieve, for now.
+
+## **🛠Tool: Strong Enough to Be Gentle**
+
+When you're in a loaded situation ask yourself: "Am I being strong enough to be gentle? It's Ok if I'm not and I'd like to learn."

@@ -1,4 +1,4 @@
-# Only do things out of joy
+# ⚒ Only do things out of joy
 
 The last and third principle underpinning communication:
 
@@ -18,10 +18,12 @@ Marshall goes on to clarify:
 >
 > Please do not do as I request if you will feel shameful. And certainly, do not do as I request out of any sense of duty or obligation.
 
+## 🛠 Tool: Only do things with the joy of a young child feeding a hungry duck.
+
 How would that work? As with the previous principles there are the two aspects of Self and Others:
 
-1. Self: Think about whether what you're doing in every moment fits the "with the joy of a young child feeding a hungry duck". Use it to check, as often as possible. Thinking specifically about how a situation reflects on you will help improve your wellbeing. Treat it as an aspirational goal. What would make the situation "with the joy of a young child feeding a hungry duck?"
-2. Others: Tell others to only do stuff if they enjoy rather than feel obligated. Don't just take "yes" for an answer. Tell people it's OK not to do what you ask. If they do it out of obligation, it's likely due to lack of clarify of message. See [clear-is-kind-unclear-is-unkind.md](clear-is-kind-unclear-is-unkind.md "mention") and clarify.
+1. Self: **Think about whether what you're doing in every moment fits the "with the joy of a young child feeding a hungry duck".** Use it to check, as often as possible. Thinking specifically about how a situation reflects on you will help improve your wellbeing. Treat it as an aspirational goal. What would make the situation "with the joy of a young child feeding a hungry duck?"
+2. Others: **Tell others to only do stuff if they enjoy rather than feel obligated.** Don't just take "yes" for an answer. Tell people it's OK not to do what you ask. If they do it out of obligation, it's likely due to lack of clarify of message. See [clear-is-kind-unclear-is-unkind.md](clear-is-kind-unclear-is-unkind.md "mention") and clarify.
 
 Don't worry if you find it hard. It is hard. Read more from this toolkit and try to understand your inner needs and feelings (see the chapters on self-awareness, self-acceptance, and active listening.)
 

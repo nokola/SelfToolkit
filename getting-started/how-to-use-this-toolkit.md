@@ -6,5 +6,5 @@
 
 Tools in this toolkit are marked with the 🛠 icon in table of contents and in article headings.
 
-Refer to this toolkit as often or as rare as you'd like to polish existing skills and learn new ones!
+Refer to this toolkit as often as you'd like to polish existing skills and learn new ones!
 
