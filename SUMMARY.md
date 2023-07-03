@@ -24,7 +24,7 @@
   * [⚒ How and what rather than why](learn-a-new-language/how-and-what-rather-than-why.md)
   * [⚒ Keep your but behind](learn-a-new-language/keep-your-but-behind.md)
   * [⚒ Don't should on people](learn-a-new-language/dont-should-on-people.md)
-  * [How does X look like?](learn-a-new-language/how-does-x-look-like.md)
+  * [⚒ How does X look like?](learn-a-new-language/how-does-x-look-like.md)
   * ["Being aware" means to understand our momentous internal state](learn-a-new-language/being-aware-means-to-understand-our-momentous-internal-state.md)
   * [Term: "Feelings" are what's alive inside us](learn-a-new-language/term-feelings-are-whats-alive-inside-us.md)
   * [Term: "Observation" is something we can record on camera or microphone, or notice of ourselves](learn-a-new-language/term-observation-is-something-we-can-record-on-camera-or-microphone-or-notice-of-ourselves.md)
