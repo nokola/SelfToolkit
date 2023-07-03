@@ -2,7 +2,7 @@
 
 1. Start by reviewing Principles, Mindsets, Paradigm/Shift, and Learn a new language
 2. Continue with any chapter depending on your interests
-3. Try the tools and report issues or successes on Patreon
+3. Try the tools. Pick one and do it for a week. Then come back and repeat - either using the same one or new one
 
 Tools in this toolkit are marked with the 🛠 icon in table of contents and in article headings.
 

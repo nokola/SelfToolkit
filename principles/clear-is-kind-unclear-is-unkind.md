@@ -36,7 +36,7 @@ There are two aspects to "clear is kind":
 
 📙Source: [brene-brown.md](../references/brene-brown.md "mention")
 
-## **🛠Tool: Clear is Kind**
+## **🔧Tool: Clear is Kind**
 
 &#x20;When you're in a loaded situation remind yourself: Am I being clear thus kind to myself? To others?
 

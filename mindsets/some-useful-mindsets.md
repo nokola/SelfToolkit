@@ -1,4 +1,4 @@
-# Some Useful Mindsets
+# ⚒ Some Useful Mindsets
 
 There are a couple of mindsets that are so useful, they are worth sharing and adopting as soon as possible. Part of those are from [mutual-learning-model.md](../references/mutual-learning-model.md "mention") and other sources in my studies.
 
