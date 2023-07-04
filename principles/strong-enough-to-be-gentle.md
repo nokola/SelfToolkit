@@ -23,6 +23,10 @@ Imagine if you can extend the same gentleness, calm, and clarity of mind to your
 
 For me - super hard to achieve, for now.
 
-## **🛠Tool: Strong Enough to Be Gentle**
+An example to set the bar high:
 
-When you're in a loaded situation ask yourself: "Am I being strong enough to be gentle? It's Ok if I'm not and I'd like to learn."
+{% embed url="https://www.youtube.com/watch?v=xpgXOIkLnBA" %}
+
+## **🔧Tool: Strong Enough to Be Gentle**
+
+When you're in a loaded situation ask yourself: "Am I being strong enough to be gentle? To myself? To others? It's Ok if I'm not and I'd like to learn."

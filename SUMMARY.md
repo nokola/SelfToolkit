@@ -12,7 +12,7 @@
   * [⚒ Only do things with the joy of a young child feeding a hungry duck](principles/only-do-things-with-the-joy-of-a-young-child-feeding-a-hungry-duck.md)
 * [Mindsets](mindsets/README.md)
   * [Term: "Mindset statements"](mindsets/term-mindset-statements.md)
-  * [⚒ Some Useful Mindsets](mindsets/some-useful-mindsets.md)
+  * [⚒ Some Useful Mindset Statements](mindsets/some-useful-mindset-statements.md)
   * [Term: "Triggers", or how to pause?](mindsets/term-triggers-or-how-to-pause.md)
 * [Paradigm/Shift](paradigm-shift/README.md)
   * [Thinking gap](paradigm-shift/thinking-gap.md)
