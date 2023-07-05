@@ -1,2 +1,0 @@
-# Lizard scanning
-
