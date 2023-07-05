@@ -17,7 +17,7 @@
   * [Monkey, lizard, you](group-dynamics/monkey-lizard-you.md)
   * [Thinking gap](paradigm-shift/thinking-gap.md)
   * ["Being aware" means to understand our momentous internal state](paradigm-shift/being-aware-means-to-understand-our-momentous-internal-state.md)
-  * [Term: "Triggers", or how to pause?](thinking-and-brains/term-triggers-or-how-to-pause.md)
+  * [Term: "Triggers", or how to pause?](mindsets/term-triggers-or-how-to-pause.md)
   * [Lizard](group-dynamics/lizard-scanning.md)
   * [Monkey scripts](group-dynamics/monkey-scripts.md)
 * [Paradigm Shift](paradigm-shift/README.md)
