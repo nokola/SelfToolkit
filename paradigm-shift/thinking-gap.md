@@ -19,4 +19,6 @@ The goal of effective _conscious_ communication is to train ourselves to expand 
 2. Examine our reaction.
 3. **Produce strategies** to respond to get what we want. E.g. meet our needs and needs of others.
 
-Once we are "in the thinking gap", we have the option to conscsiouly employ many of the tools in this toolkit.
+**In short: expand the time for Human brain to engage, and engage Human brain in the gap.**
+
+Once we are "in the thinking gap", we have the option to consciously employ many of the tools in this toolkit.
