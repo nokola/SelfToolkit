@@ -8,7 +8,7 @@ Did you know we have 3 brains?
 
 Human thinking can be separated in three main groups, based on utility: survival, social, and tasks:
 
-<table><thead><tr><th width="149">Brain</th><th width="221">What does it think?</th><th width="150">Goals</th><th>Example: what it solves</th></tr></thead><tbody><tr><td>Lizard Brain</td><td>You’re alive. What you did so far kept you alive</td><td>Survive</td><td>Fight, freeze, flight, regulate body function.</td></tr><tr><td>Monkey Brain</td><td>Splitting from the group means death.</td><td>Keep the group together*</td><td>"Which of these shirts do you like more?"**</td></tr><tr><td>Human Brain</td><td>Rational goals</td><td>Solve problems.</td><td>"Why is this code not working?"</td></tr></tbody></table>
+<table><thead><tr><th width="149">Brain</th><th width="221">What does it think?</th><th width="150">Goals</th><th>Example: what it solves</th></tr></thead><tbody><tr><td>Lizard Brain</td><td>You’re alive. What you did so far kept you alive</td><td>Survive</td><td>Fight, freeze, flight, regulate body function.</td></tr><tr><td>Monkey Brain</td><td>Splitting from the group means death.</td><td>Keep the group together*</td><td>"Which of these shirts do you like more?"**</td></tr><tr><td>Human Brain</td><td>Rational goals</td><td>Solve problems.</td><td>"How do I open this jar?"</td></tr></tbody></table>
 
 \*Even to the detriment of the individual. E.g., abusive relationship.
 
@@ -41,9 +41,11 @@ Yes, directly.
 
 There was a study of people explaining political views, answering the question "why are you republican/democrat." They were in an MRI machine. During their explanation, only the Monkey brain part of their neurocortex lit up. Human does not light up, even if language and reasons seemed “convincing”. **TODO: link**
 
-**Usually Monkey will make decisions then Human will explain them!**
+**Usually, Monkey will make decisions then Human will find reasons to match them! Almost all of our thinking is Monkey brain thoughts.**
 
 ### How to know if I'm in Monkey brain?
+
+You are almost always in Monkey.
 
 Anytime you:
 
@@ -51,10 +53,28 @@ Anytime you:
 2. Label
 3. Feel anything related to a social encounter. 1:1, in a group, or by yourself thinking about it.
 
+Monkey brain examples:
+
+1. "Do you like this?" -> evaluation
+2. "I'm quite good at this" -> assessment
+3. "This person is crazy!" -> diagnosis
+4. "They are late" -> interpretation.
+5. "Why did you do this?" -> when used as judgement
+6. "My lunch is tasty"
+7. "Love it"
+8. "Where do you want to eat?"
+9. etc.
+
 If in doubt, you're likely thinking with Monkey brain. Likely we do this near 100% of the time.
 
 ## Human
 
 The human brain is the one that understands logical order of operations, how to solve high level problems.
+
+Human brain examples:
+
+1. "How long does it take to get there?"
+2. "Why is this code not working?" -> when intended as inquiry/investigation rather than as judgement
+3. "How do I move my fridge?"
 
 Next, we'll discuss how and where to engage our Human brain more.
