@@ -4,17 +4,17 @@ Use mindset statements to help realize and set your _conscious_ mind in a way th
 
 Mindset statements are:
 
-1. A simple statement, such as "I am better than him", "I know how to cook", or "Different opinions are useful"
-2. Usually, subconscious
+1. A simple sentence, such as "I am better than him", "I know how to cook", or "Different opinions are useful".
+2. Usually, subconscious. **Aim to make them conscious as much as possible.**
 3. We hold minimum 5 of them without realizing in any situation.
 
-And more:
+Things to consider:
 
-* There are multiple mindsets - hundreds if not thousands
-* We switch through them all the time
-* They are fundamental to our behavior
-* Mindsets will **help us or prevent** us from noticing information
-* Other people likely have a different set of mindsets, thus they will notice different information than us. That's part of how disagreements arise
+* There are thousands of mindsets and mindset statements.
+* We switch through them all the time.
+* They are fundamental to our behavior.
+* Mindsets will **help us or prevent** us from noticing information.
+* Other people likely have a different set of mindsets thus they will notice different information than us. That's part of how disagreements arise.
 
 ## Adopting a mindset
 
