@@ -1,8 +1,8 @@
 # ⚒ Only do things with the joy of a young child feeding a hungry duck
 
-The last and third principle underpinning communication:
+This principle is coming directly from the mouth of the late Marshall Rosenberg, author of nonviolent communication.
 
-"Only do things with the joy of a young child feeding a hungry duck" - Marshall Rosenberg [nonviolent-communication.md](../references/nonviolent-communication.md "mention")
+How do we apply it?
 
 > :raccoon: That's impossible!
 
@@ -20,3 +20,5 @@ How would that work? As with the previous principles there are the two aspects o
 Don't worry if you find it hard. It is hard. Read more from this toolkit and try to understand your inner needs and feelings (see the chapters on self-awareness, self-acceptance, and active listening.)
 
 Try to get as much as possible towards the ideal 1 and 2 above. Aim for 3-5% of the time at first.
+
+:blue\_book: Marshall Rosenberg [nonviolent-communication.md](../references/nonviolent-communication.md "mention")
