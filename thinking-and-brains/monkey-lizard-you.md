@@ -1,4 +1,4 @@
-# Monkey, lizard, you
+# Monkey, lizard, human brain
 
 > You're a lizard, Harry.
 
