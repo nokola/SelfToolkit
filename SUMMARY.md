@@ -107,6 +107,7 @@
   * ["Love": a word with at least three definitions](common-unclear-words/love-a-word-with-at-least-three-definitions.md)
   * ["Respect": subjective and highly contextual, thousands of definitions](common-unclear-words/respect-subjective-and-highly-contextual-thousands-of-definitions.md)
   * [Other words](common-unclear-words/other-words.md)
+* [Doing Things Better](doing-things-better.md)
 * [References](references/README.md)
   * [Brené Brown](references/brene-brown.md)
   * [Mutual Learning Model](references/mutual-learning-model.md)

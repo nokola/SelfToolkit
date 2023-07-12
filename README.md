@@ -1,6 +1,6 @@
 # Welcome
 
-My online name is Nokola. For years I have suffered with anxiety, frustrations, misunderstandings and generally missing on life. And I didn't even know. I went through an abusive relationship where I felt horrible. I was an enabler. I was clinging to ideas and societal expectations. I read countless articles, self-help, and went to different psychologists a couple of times.
+For years I have suffered with anxiety, frustrations, misunderstandings and generally missing on life. And I didn't even know. I went through an abusive relationship where I felt horrible. I was an enabler. I was clinging to ideas and societal expectations. I read countless articles, self-help, and went to different psychologists a couple of times.
 
 And then without realizing, things started to change. One day, at work, I got a call from a distressed co-worker. The person mentioned that "they no longer want to work with X" because "I can't" and "I'm going to talk with my boss to take me off the project". What happened next? I was on a call for about 2 hours listening to this person's pain and problems when working with the other. I knew both. I was a third party. They both wanted the best. "Why wouldn't they work with each other?" I thought.
 
