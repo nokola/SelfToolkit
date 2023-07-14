@@ -2,4 +2,4 @@
 
 This toolkit is a continuous work in progress, with frequent updates based on feedback.
 
-I ask that you send feedback on anything not working or working. Write a lot, write details. Consider using [observations](../paradigm-shift/term-observation-is-something-i-can-record-on-camera-or-microphone-or-notice-in-myself.md).&#x20;
+I ask that you send feedback on anything. Specifically, not working, however I appreciate hearing what works to keep it. Write a lot, write details. Don't be shy. I know I have a ton of room for improvement.

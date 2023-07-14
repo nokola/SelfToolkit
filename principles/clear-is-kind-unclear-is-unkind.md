@@ -25,14 +25,14 @@ Often times people argue "I said X. It's obvious! I'm clear". Think about this: 
 
 > :raccoon: Or maybe it's them?
 
-Maybe. Even so: I like to define me being clear as only one thing: the other person can understand me. It helps me seek and attempt to provide clarity. The other implication "there's something wrong with them" does not help me.
+Maybe. Even so: I like to define "me being clear" as only one thing: the other person can understand me. It helps me seek and attempt to provide clarity. The other implication "there's something wrong with them" does not help me.
 
 The concept of clarity of message is so fundamental that Brené Brown, a famous researcher on connection, links it to kindness: Clear is kind, unclear is unkind.
 
 There are two aspects to "clear is kind":
 
-1. Self: Are you kind to yourself? For example, if you feel ashamed do you seek internal clarity of message? Do you look for what your feeling is indicating?
-2. Others: Are you kind to others? If someone does not understand you or is upset, do you seek clarity? Do you try to provide clarity?
+1. **Self aspect:** Are you kind to yourself? For example, if you feel ashamed do you seek internal clarity of message? Do you look for what your feeling is indicating?
+2. **Others aspect:** Are you kind to others? If someone does not understand you or is upset, do you seek clarity? Do you try to provide clarity?
 
 📙Source: [brene-brown.md](../references/brene-brown.md "mention")
 

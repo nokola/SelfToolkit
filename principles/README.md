@@ -2,7 +2,7 @@
 
 Also called **predispositions**, **aspirational goals**, **motivations,** **attitudes,** or **beliefs.**
 
-The 3 principles outlined here are the underpinning of this toolkit.&#x20;
+This toolkit follows three principles that I find foundational and pre-requisite as a state of mind to make the most out of life.
 
 Try to keep them in mind as often as you can.
 
