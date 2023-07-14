@@ -79,4 +79,4 @@ Human brain examples:
 
 Next, we'll discuss how and where to engage our Human brain more.
 
-📕Source: [conflict-communication.md](../references/conflict-communication.md "mention")
+📕 Source: [conflict-communication.md](../references/conflict-communication.md "mention")
