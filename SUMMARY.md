@@ -1,11 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Getting Started](getting-started/README.md)
-  * [How to use this toolkit](getting-started/how-to-use-this-toolkit.md)
-  * [Understanding the terms](getting-started/understanding-the-terms.md)
-  * [Practice is power](getting-started/practice-is-power.md)
-  * [Contributing](getting-started/contributing.md)
+  * [How to use this toolkit](welcome/how-to-use-this-toolkit.md)
+  * [Understanding the terms](welcome/understanding-the-terms.md)
+  * [Practice](welcome/practice.md)
 * [Principles](principles/README.md)
   * [⚒ Clear is kind, unclear is unkind](principles/clear-is-kind-unclear-is-unkind.md)
   * [⚒ Strong enough to be gentle](principles/strong-enough-to-be-gentle.md)
