@@ -1,10 +1,10 @@
 # Welcome
 
-If you're like me, you've doubted yourself. Maybe you thought "am I too much", "am I right", worried about the future, or ruminated over the past.
+If you're like me, you've doubted yourself. Maybe you thought "am I too much?", "am I right?". Perhaps you worried about the future or ruminated over the past.
 
 Take a few moments and think about your relationship with any of the following thoughts.
 
-How related to you it is and what influence might it have over your life?&#x20;
+How related to you is each thought and what influence might it have over your life?&#x20;
 
 When do you feel it?&#x20;
 
@@ -19,11 +19,11 @@ What do you do or say when you experience it?
 * A need for intimacy and friendship
 * Sensitive feelings that can easily be hurt
 * Need to be in control of everyone or everything
-* Comparing with others and feeling upset when they are better
+* Comparing yourself with others and feeling upset when they are better
 * Hiding and avoiding showing any mistake
-* Afraid what saying something in front of others
-* A happy mask that hide your true emotions
-* Urge to binge on food, tv, porn, or other consumer media
+* Afraid of saying or showing something in front of others
+* A happy mask to hide your true self
+* Urge to binge on food, TV, porn, or other consumer media
 * Judgmental thoughts you have about others
 * Dissatisfaction with work, the economy, the world, or anything else
 
