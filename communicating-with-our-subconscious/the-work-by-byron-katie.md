@@ -16,3 +16,10 @@ Turnaround: generating options such as "what if the opposite is true" or "what i
 
 
 TODO: interesting re: `turnaround` can become part of Mutual Learning Model.
+
+
+
+Dangers:
+
+1. Believing that only the opposite is true
+2. It's possible that what you say is true - this exercise is to help move on past flight/fight response and into integrated understanding (IFS-like)
