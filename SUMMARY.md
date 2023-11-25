@@ -100,6 +100,7 @@
 * [Communicating with our subconscious](communicating-with-our-subconscious/README.md)
   * ["Parts" and Internal Family Systems](communicating-with-our-subconscious/parts-and-internal-family-systems.md)
   * ["The Work" by Byron Katie](communicating-with-our-subconscious/the-work-by-byron-katie.md)
+  * [Turnaround](communicating-with-our-subconscious/turnaround.md)
   * [Images](communicating-with-our-subconscious/images.md)
   * [Spirituality](communicating-with-our-subconscious/spirituality.md)
   * [Learning subconsciously](communicating-with-our-subconscious/learning-subconsciously.md)
