@@ -17,12 +17,12 @@ Please keep the idea of **clarity of message** (to myself and others) on top of 
 
 While achieving "perfect proof" of clarity is logically impossible (ask me why on Patreon), improving someone's communication skills and wellbeing beyond their wildest dreams **has happened** to me, and I believe is repeatable.
 
-What can you do with this toolkit? If you are:
+What can you do with this toolkit? Are you:
 
-1. **Wondering "am I abused?", or "is this abuse?"** Go to the[abuse](abuse/ "mention")chapter
-2. **How to calm down when anxious?** check out [communicating-with-our-subconscious](communicating-with-our-subconscious/ "mention")
+1. Wondering "am I abused?", or "is this abuse?" ->[abuse](abuse/ "mention")chapter
+2. How to calm down when anxious? -> [communicating-with-our-subconscious](communicating-with-our-subconscious/ "mention")
 3. Afraid of speaking in public or keeping some deep secret that you wish you could have said?[self-acceptance](self-acceptance/ "mention")
-4. Are people around you idiots and jerks? -> [mindsets](mindsets/ "mention")and [boundaries.md](connection-and-communication/boundaries.md "mention")
+4. Are people around you idiots and jerks? -> [mindsets](mindsets/ "mention") and [boundaries.md](connection-and-communication/boundaries.md "mention")
 5. Want to have healthier [habits](habits/ "mention")?
 6. People at work are jerks, or don't see your value, or you're frustrated at work. See [connection-and-communication](connection-and-communication/ "mention")
 7. Living defensively? Being judged left and right? (how dare they!) Check out [feelings-and-needs.md](paradigm-shift/feelings-and-needs.md "mention"), [mindsets](mindsets/ "mention")
