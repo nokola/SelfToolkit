@@ -31,7 +31,11 @@ What can you do with this toolkit? If you are:
 10. Nothing will ever get better -> [success-and-resilience](success-and-resilience/ "mention")
 11. I suggest that you read the whole thing, at some point. These are tools that have helped me and others live a better life. Maybe they'll be useful for you too.
 
+Parts of this book are related to topics discussed in Nonviolent Communication, The Work by Byron Katie, Internal Family Systems, Mutual Learning Model. Having problems with some of these frameworks? So do I! Check out the **TODO:** dangers chapter. Like anything else, they can be used or misused. Some parts of them may be actively helpful or actively harmful or anywhere in-between.
 
+I believe no single framework, including this toolkit, can solve all problems. This toolkit focuses on internal self-work, and intentionally does not focus on systemic, external, societal issues. Mostly because I don't have enough info and capabilities to comment on these.
+
+When in doubt, think for yourself.
 
 Love
 
