@@ -1,4 +1,59 @@
-# Welcome
+# Clarity of message
+
+If your messages to yourself and others are clear, always, and in a consistent manner, you're **done** with your inner work.
+
+Congratulations 🎉 This is all you have to do if you want to complete your inner journey. At least in my opinion.
+
+Now for the somewhat disheartening news:
+
+1. There is no way that I know of to know **for sure** whether my message to others is clear. As in, what I meant was **understood as I meant it**.
+2. There is no way to prove to myself that I clearly understand myself and others, in the sense that I have complete knowledge of a situation, context, and available options.
+
+The rest of this toolkit focuses ways that might work to gain internal clarity, communicate more clearly, and be more likely to be understood.
+
+I call these tools-not-rules, since sometimes they would work and sometimes, they won't. Sometimes they will. [Hello](https://www.youtube.com/watch?v=lwLLFbC1H0c)?&#x20;
+
+Please keep the idea of **clarity of message** (to myself and others) on top of your mind as much as you can.
+
+While achieving "perfect proof" of clarity is logically impossible (ask me why on Patreon), improving someone's communication skills and wellbeing beyond their wildest dreams **has happened** to me, and I believe is repeatable.
+
+What can you do with this toolkit? If you are:
+
+1. **Wondering "am I abused?", or "is this abuse?"** Go to the[abuse](abuse/ "mention")chapter
+2. **How to calm down when anxious?** check out [communicating-with-our-subconscious](communicating-with-our-subconscious/ "mention")
+3. Afraid of speaking in public or keeping some deep secret that you wish you could have said?[self-acceptance](self-acceptance/ "mention")
+4. Are people around you idiots and jerks? -> [mindsets](mindsets/ "mention")and [boundaries.md](connection-and-communication/boundaries.md "mention")
+5. Want to have healthier [habits](habits/ "mention")?
+6. People at work are jerks, or don't see your value, or you're frustrated at work. See [connection-and-communication](connection-and-communication/ "mention")
+7. Living defensively? Being judged left and right? (how dare they!) Check out [feelings-and-needs.md](paradigm-shift/feelings-and-needs.md "mention"), [mindsets](mindsets/ "mention")
+8. Navigating politics at work and social life? Why are you not picked up even though you're capable to do stuff? See [thinking-and-brains](thinking-and-brains/ "mention")
+9. Are you upset at your progress at sports or academics and comparing to others, just to see how much better than you they are and how you suck? [doing-things-better](doing-things-better/ "mention")
+10. Nothing will ever get better -> [success-and-resilience](success-and-resilience/ "mention")
+11. I suggest that you read the whole thing, at some point. These are tools that have helped me and others live a better life. Maybe they'll be useful for you too.
+
+
+
+Love
+
+Purpose
+
+Desire
+
+Courage
+
+Anger  --> forgive here
+
+Fear
+
+Grief
+
+Apathy
+
+{% embed url="https://www.instagram.com/tv/CI_dTdLnPTN/?hl=en" %}
+
+[https://stevepavlina.com/blog/2005/04/levels-of-consciousness/](https://stevepavlina.com/blog/2005/04/levels-of-consciousness/)
+
+
 
 If you're like me, you've doubted yourself. Maybe you thought "am I too much?", "am I right?". Perhaps you worried about the future or ruminated over the past.
 

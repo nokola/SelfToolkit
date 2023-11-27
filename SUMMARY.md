@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [How to use this toolkit](welcome/how-to-use-this-toolkit.md)
-  * [Understanding the terms](welcome/understanding-the-terms.md)
-  * [Practice](welcome/practice.md)
+* [Clarity of message](README.md)
+  * [How to use this toolkit](clarity-of-message/how-to-use-this-toolkit.md)
+  * [Understanding the terms](clarity-of-message/understanding-the-terms.md)
+  * [Practice](clarity-of-message/practice.md)
 * [Principles](principles/README.md)
   * [⚒ Clear is kind, unclear is unkind](principles/clear-is-kind-unclear-is-unkind.md)
   * [⚒ Strong enough to be gentle](principles/strong-enough-to-be-gentle.md)
