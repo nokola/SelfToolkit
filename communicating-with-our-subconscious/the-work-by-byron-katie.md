@@ -1,5 +1,16 @@
 # "The Work" by Byron Katie
 
+Folks, I started reading about the work and this comes to mind in relation to the statement "The Work method is useful and not continuing suffering":&#x20;
+
+* Is it true?&#x20;
+* Can you absolutely know that it’s true?&#x20;
+* How do you react when you believe that thought?&#x20;
+* Who would you be without the thought?&#x20;
+
+Just my 2c. Who, if anyone, has pondered on that, and what are the results?
+
+
+
 a way of getting "a part" to understand the other parts to reduce fight/flight response
 
 
