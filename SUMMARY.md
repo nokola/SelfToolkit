@@ -97,6 +97,7 @@
   * [Mostly think and speak about what you want (rather than or in addition to what you don't want)](success-and-resilience/mostly-think-and-speak-about-what-you-want-rather-than-or-in-addition-to-what-you-dont-want.md)
 * [Abuse](abuse/README.md)
   * [The Abusive Mindsets](abuse/the-abusive-mindsets.md)
+  * [Emotional Flashbacks / Feeling Memory](abuse/emotional-flashbacks-feeling-memory.md)
 * [Communicating with our subconscious](communicating-with-our-subconscious/README.md)
   * ["Parts" and Internal Family Systems](communicating-with-our-subconscious/parts-and-internal-family-systems.md)
   * ["The Work" by Byron Katie](communicating-with-our-subconscious/the-work-by-byron-katie.md)
