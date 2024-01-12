@@ -1,4 +1,8 @@
-# Clarity of message
+# Change your life by changing your mind
+
+**TODO:** why we do what we do and stay in situations that are uncomfortable?
+
+
 
 If your messages to yourself and others are clear, always, and in a consistent manner, you're **done** with your inner work.
 

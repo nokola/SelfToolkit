@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Clarity of message](README.md)
-  * [How to use this toolkit](clarity-of-message/how-to-use-this-toolkit.md)
-  * [Understanding the terms](clarity-of-message/understanding-the-terms.md)
-  * [Practice](clarity-of-message/practice.md)
+* [Change your life by changing your mind](README.md)
+  * [How to use this toolkit](change-your-life-by-changing-your-mind/how-to-use-this-toolkit.md)
+  * [Understanding the terms](change-your-life-by-changing-your-mind/understanding-the-terms.md)
+  * [Practice](change-your-life-by-changing-your-mind/practice.md)
 * [Principles](principles/README.md)
   * [⚒ Clear is kind, unclear is unkind](principles/clear-is-kind-unclear-is-unkind.md)
   * [⚒ Strong enough to be gentle](principles/strong-enough-to-be-gentle.md)
