@@ -2,6 +2,22 @@
 
 **TODO:** why we do what we do and stay in situations that are uncomfortable?
 
+**30 days exercise:**
+
+**Take control of your mind and direct what you think**
+
+**TODO:** What is it that you want?
+
+Make a list and think about it in a relaxed and cheerful way.
+
+Think about it in the morning and night
+
+Stop thinking about what is it you fear.
+
+Replace with the worthwhile goal.&#x20;
+
+The moment you decide on a goal, you're immediately a successful person. Know where you're going. The answers will come to you on your own time.
+
 
 
 If your messages to yourself and others are clear, always, and in a consistent manner, you're **done** with your inner work.
