@@ -36,6 +36,20 @@ Keep calm and cheerful.
 
 
 
+Success is not the result of making money. Making money is the result of success.
+
+[https://www.youtube.com/watch?v=ZN6m0-UVLro](https://www.youtube.com/watch?v=ZN6m0-UVLro)
+
+
+
+Navigation map:
+
+1. "Nothing is going to change" -&#x20;
+2. "I'm a victim"
+3. "I'm angry"
+4. "I'm afraid"
+5. ...
+
 
 
 If your messages to yourself and others are clear, always, and in a consistent manner, you're **done** with your inner work.
