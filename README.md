@@ -18,6 +18,24 @@ Replace with the worthwhile goal.&#x20;
 
 The moment you decide on a goal, you're immediately a successful person. Know where you're going. The answers will come to you on your own time.
 
+Act and though impossible to fail.
+
+If you fail during the 30 days - as in get overwhelmed by negative thoughts, start again 30 days from that point.
+
+Card:
+
+One side: goal
+
+Other side: Ask and it shall be given you. Seek and you shall find. Knock and it shall be open for you.
+
+
+
+All you have to do is hold your goal before you and everything else will take care of itself.
+
+Keep calm and cheerful.
+
+
+
 
 
 If your messages to yourself and others are clear, always, and in a consistent manner, you're **done** with your inner work.
