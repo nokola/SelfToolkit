@@ -96,6 +96,7 @@
   * [Imagine positive outcomes (in addition to negative)](success-and-resilience/imagine-positive-outcomes-in-addition-to-negative.md)
   * [Mostly think and speak about what you want (rather than or in addition to what you don't want)](success-and-resilience/mostly-think-and-speak-about-what-you-want-rather-than-or-in-addition-to-what-you-dont-want.md)
 * [Emotional Abuse](emotional-abuse/README.md)
+  * ["Is this Abuse?"](emotional-abuse/is-this-abuse.md)
   * [The Abusive Mindsets](emotional-abuse/the-abusive-mindsets.md)
   * [Gaslighting](emotional-abuse/gaslighting.md)
   * [Emotional Flashbacks / Feeling Memory](emotional-abuse/emotional-flashbacks-feeling-memory.md)
