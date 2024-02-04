@@ -97,6 +97,8 @@
   * [Mostly think and speak about what you want (rather than or in addition to what you don't want)](success-and-resilience/mostly-think-and-speak-about-what-you-want-rather-than-or-in-addition-to-what-you-dont-want.md)
 * [Emotional Abuse](emotional-abuse/README.md)
   * ["Is this Abuse?"](emotional-abuse/is-this-abuse.md)
+  * [Why do I want to go back? or "pull of the abuser"](emotional-abuse/why-do-i-want-to-go-back-or-pull-of-the-abuser.md)
+  * [Should I go give them a chance?](emotional-abuse/should-i-go-give-them-a-chance.md)
   * [The Abusive Mindsets](emotional-abuse/the-abusive-mindsets.md)
   * [Gaslighting](emotional-abuse/gaslighting.md)
   * [Emotional Flashbacks / Feeling Memory](emotional-abuse/emotional-flashbacks-feeling-memory.md)
