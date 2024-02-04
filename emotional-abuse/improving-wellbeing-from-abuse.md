@@ -1,5 +1,7 @@
 # Improving wellbeing from abuse
 
+TL; DR; focus on self-care and self-worth.
+
 Likely "environment" will be the biggest contributor to improving wellbeing. Being in an environment where you're supported and not called names, your feelings and needs are respected and matter would make wonders for improving the situation.
 
 You can create such environment by a) leaving or b) if you stay, surround yourself with people and experiences who lift you up. If you have positive experiences, the "at home" experience will affect you less.
