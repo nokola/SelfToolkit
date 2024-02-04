@@ -100,6 +100,7 @@
   * [Why do I want to go back? or "pull of the abuser"](emotional-abuse/why-do-i-want-to-go-back-or-pull-of-the-abuser.md)
   * [Should I go give them a chance?](emotional-abuse/should-i-go-give-them-a-chance.md)
   * [The Abusive Mindsets](emotional-abuse/the-abusive-mindsets.md)
+  * [Improving wellbeing from abuse](emotional-abuse/improving-wellbeing-from-abuse.md)
   * [Gaslighting](emotional-abuse/gaslighting.md)
   * [Emotional Flashbacks / Feeling Memory](emotional-abuse/emotional-flashbacks-feeling-memory.md)
 * [Communicating with our subconscious](communicating-with-our-subconscious/README.md)
