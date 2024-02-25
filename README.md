@@ -71,7 +71,7 @@ While achieving "perfect proof" of clarity is logically impossible (ask me why o
 
 What can you do with this toolkit? Are you:
 
-1. Wondering "am I abused?", or "is this abuse?" ->[emotional-abuse](emotional-abuse/ "mention")chapter
+1. Wondering "am I abused?", or "is this abuse?" ->[abuse-emotional](abuse-emotional/ "mention")chapter
 2. How to calm down when anxious? -> [communicating-with-our-subconscious](communicating-with-our-subconscious/ "mention")
 3. Afraid of speaking in public or keeping some deep secret that you wish you could have said?[self-acceptance](self-acceptance/ "mention")
 4. Are people around you idiots and jerks? -> [mindsets](mindsets/ "mention") and [boundaries.md](connection-and-communication/boundaries.md "mention")
