@@ -102,6 +102,7 @@
   * [The Abusive Mindsets](abuse-emotional/the-abusive-mindsets.md)
   * [Improving wellbeing from abuse](abuse-emotional/improving-wellbeing-from-abuse.md)
   * [Gaslighting](abuse-emotional/gaslighting.md)
+  * [Finding yourself](abuse-emotional/finding-yourself.md)
   * [Emotional Flashbacks / Feeling Memory](abuse-emotional/emotional-flashbacks-feeling-memory.md)
 * [Communicating with our subconscious](communicating-with-our-subconscious/README.md)
   * ["Parts" and Internal Family Systems](communicating-with-our-subconscious/parts-and-internal-family-systems.md)
