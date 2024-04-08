@@ -104,6 +104,7 @@
   * [Gaslighting](emotional-abuse/gaslighting.md)
   * [Finding yourself](emotional-abuse/finding-yourself.md)
   * [Emotional Flashbacks / Feeling Memory](emotional-abuse/emotional-flashbacks-feeling-memory.md)
+  * [How to be resilient to emotional abuse?](emotional-abuse/how-to-be-resilient-to-emotional-abuse.md)
 * [Communicating with our subconscious](communicating-with-our-subconscious/README.md)
   * ["Parts" and Internal Family Systems](communicating-with-our-subconscious/parts-and-internal-family-systems.md)
   * ["The Work" by Byron Katie](communicating-with-our-subconscious/the-work-by-byron-katie.md)
