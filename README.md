@@ -1,5 +1,26 @@
 # Change your life by changing your mind
 
+**You have some control over your environment.**
+
+Yes, you may be in an abusive relationship, or unhappy with your job. They could be doing
+
+
+
+Recovering yourself from unhappiness.
+
+Steps to recovery:
+
+1. Apathy - It is what it is. I accept my fate since I can't change it.&#x20;
+2. Victimhood - My fate is horrible, I am a victim
+3. Fear - I need a change, and that hurts
+4. Anger - Fuck yes, I need a fucking change!
+5. Courage - I am strong 💪. I can move forward even with roadblocks.
+6. Desire - Yes, I see a better life!
+7. Purpose - I know what I want and why I am born here
+8. Love - Strong enough to be gentle
+
+(borrowed and repurposed from Julien Himself)
+
 **TODO:** why we do what we do and stay in situations that are uncomfortable?
 
 **30 days exercise:**
