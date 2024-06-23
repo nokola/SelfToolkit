@@ -96,6 +96,7 @@
   * [Imagine positive outcomes (in addition to negative)](success-and-resilience/imagine-positive-outcomes-in-addition-to-negative.md)
   * [Mostly think and speak about what you want (rather than or in addition to what you don't want)](success-and-resilience/mostly-think-and-speak-about-what-you-want-rather-than-or-in-addition-to-what-you-dont-want.md)
 * [Emotional Abuse](emotional-abuse/README.md)
+  * [Request](emotional-abuse/request.md)
   * [what works](emotional-abuse/what-works.md)
   * ["Is this Abuse?"](emotional-abuse/is-this-abuse.md)
   * [Why do I want to go back? Why did I stay?](emotional-abuse/why-do-i-want-to-go-back-or-pull-of-the-abuser.md)
