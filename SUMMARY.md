@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Change your life by changing your mind](README.md)
+* [Acknowledgements](README.md)
+* [Change your life by changing your mind](<README (1).md>)
   * [How to use this toolkit](change-your-life-by-changing-your-mind/how-to-use-this-toolkit.md)
   * [Understanding the terms](change-your-life-by-changing-your-mind/understanding-the-terms.md)
   * [Practice](change-your-life-by-changing-your-mind/practice.md)
