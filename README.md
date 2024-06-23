@@ -1,6 +1,6 @@
 # Acknowledgements
 
-I want to thank myself, because without myself this book on self-love, self-care, and self-acceptance wouldn't be possible.
+I want to thank myself. Without myself this book on self-love, self-care, and self-acceptance wouldn't be possible.
 
 Also huge thanks to all fellow traumatized folks on r/emotionalabuse subreddit for being supportive of each other, sharing and listening to examples, all the book authors that helped me get here, friends, family, and wild animals.&#x20;
 
