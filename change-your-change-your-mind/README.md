@@ -1,4 +1,4 @@
-# Change your life by changing your mind
+# Change your: change your mind
 
 **You have some control over your environment.**
 
@@ -92,16 +92,16 @@ While achieving "perfect proof" of clarity is logically impossible (ask me why o
 
 What can you do with this toolkit? Are you:
 
-1. Wondering "am I abused?", or "is this abuse?" ->[emotional-abuse](emotional-abuse/ "mention")chapter
-2. How to calm down when anxious? -> [communicating-with-our-subconscious](communicating-with-our-subconscious/ "mention")
-3. Afraid of speaking in public or keeping some deep secret that you wish you could have said?[self-acceptance](self-acceptance/ "mention")
-4. Are people around you idiots and jerks? -> [mindsets](mindsets/ "mention") and [boundaries.md](connection-and-communication/boundaries.md "mention")
-5. Want to have healthier [habits](habits/ "mention")?
-6. People at work are jerks, or don't see your value, or you're frustrated at work. See [connection-and-communication](connection-and-communication/ "mention")
-7. Living defensively? Being judged left and right? (how dare they!) Check out [feelings-and-needs.md](paradigm-shift/feelings-and-needs.md "mention"), [mindsets](mindsets/ "mention")
-8. Navigating politics at work and social life? Why are you not picked up even though you're capable to do stuff? See [thinking-and-brains](thinking-and-brains/ "mention")
-9. Are you upset at your progress at sports or academics and comparing to others, just to see how much better than you they are and how you suck? [doing-things-better](doing-things-better/ "mention")
-10. Nothing will ever get better -> [success-and-resilience](success-and-resilience/ "mention")
+1. Wondering "am I abused?", or "is this abuse?" ->[emotional-abuse](../emotional-abuse/ "mention")chapter
+2. How to calm down when anxious? -> [communicating-with-our-subconscious](../communicating-with-our-subconscious/ "mention")
+3. Afraid of speaking in public or keeping some deep secret that you wish you could have said?[self-acceptance](../self-acceptance/ "mention")
+4. Are people around you idiots and jerks? -> [mindsets](../mindsets/ "mention") and [boundaries.md](../connection-and-communication/boundaries.md "mention")
+5. Want to have healthier [habits](../habits/ "mention")?
+6. People at work are jerks, or don't see your value, or you're frustrated at work. See [connection-and-communication](../connection-and-communication/ "mention")
+7. Living defensively? Being judged left and right? (how dare they!) Check out [feelings-and-needs.md](../paradigm-shift/feelings-and-needs.md "mention"), [mindsets](../mindsets/ "mention")
+8. Navigating politics at work and social life? Why are you not picked up even though you're capable to do stuff? See [thinking-and-brains](../thinking-and-brains/ "mention")
+9. Are you upset at your progress at sports or academics and comparing to others, just to see how much better than you they are and how you suck? [doing-things-better](../doing-things-better/ "mention")
+10. Nothing will ever get better -> [success-and-resilience](../success-and-resilience/ "mention")
 11. I suggest that you read the whole thing, at some point. These are tools that have helped me and others live a better life. Maybe they'll be useful for you too.
 
 Parts of this book are related to topics discussed in Nonviolent Communication, The Work by Byron Katie, Internal Family Systems, Mutual Learning Model. Having problems with some of these frameworks? So do I! Check out the **TODO:** dangers chapter. Like anything else, they can be used or misused. Some parts of them may be actively helpful or actively harmful or anywhere in-between.

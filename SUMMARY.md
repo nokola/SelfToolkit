@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Acknowledgements](README.md)
-* [Change your life by changing your mind](<README (1).md>)
-  * [How to use this toolkit](change-your-life-by-changing-your-mind/how-to-use-this-toolkit.md)
-  * [Understanding the terms](change-your-life-by-changing-your-mind/understanding-the-terms.md)
-  * [Practice](change-your-life-by-changing-your-mind/practice.md)
+* [Change your: change your mind](change-your-change-your-mind/README.md)
+  * [How to use this toolkit](change-your-change-your-mind/how-to-use-this-toolkit.md)
+  * [Understanding the terms](change-your-change-your-mind/understanding-the-terms.md)
+  * [Practice](change-your-change-your-mind/practice.md)
 * [Principles](principles/README.md)
   * [⚒️ Clear is kind, unclear is unkind](principles/clear-is-kind-unclear-is-unkind.md)
   * [⚒️ Strong enough to be gentle](principles/strong-enough-to-be-gentle.md)
