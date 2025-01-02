@@ -2,6 +2,8 @@
 
 If you only read one part of this whole book, read this screen.
 
+[https://www.instagram.com/p/DDcau-PpDtg/](https://www.instagram.com/p/DDcau-PpDtg/)
+
 The following concept transformed the way I think and perceive the world. It's a fast way to engage thinking response rather than reaction like fight or flight.
 
 Use this to easier process your anxiety, guilt, shame, joy, or any other feelings that emerge in your life.
