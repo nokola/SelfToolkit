@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Acknowledgements](README.md)
+* [Goals](goals.md)
 * [The player and the avatar](the-player-and-the-avatar.md)
 * [Change your: change your mind](change-your-change-your-mind/README.md)
   * [How to use this toolkit](change-your-change-your-mind/how-to-use-this-toolkit.md)
